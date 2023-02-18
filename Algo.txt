@@ -1,8 +1,0 @@
-Step 1: Choose a pizza place
-Step 2: Choose a type of pizza
-Step 3: Call in your order to pizza place
-Step 4: Wait for pizza to be done
-Step 5: Drive to pizza place
-Step 6: Pick up your order
-Step 7: Drive back home
-Step 8: Enjoy pizza
